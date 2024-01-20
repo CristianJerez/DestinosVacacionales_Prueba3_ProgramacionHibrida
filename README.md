@@ -1,2 +1,2 @@
-# DestinosVacacionales
- Prueba 3 de programacion hibrida.
+# Prueba_3_PH
+ proyecto de destinos vacacionales
